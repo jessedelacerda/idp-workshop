@@ -24,7 +24,7 @@ spec:
   owner: team_jesse
   lifecycle: experimental
 #  system: Demo
- dependsOn:
+ dependsOn: |
    - component:default/jesse-service
 #  consumesApis:
 #    - user-api
