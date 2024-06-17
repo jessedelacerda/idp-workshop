@@ -24,8 +24,8 @@ spec:
   owner: change-value
   lifecycle: experimental
 #  system: Demo
-#  dependsOn:
-#    - component:default/fill-in-your-name-service
+ dependsOn:
+   - component:default/jesse-service
 #  consumesApis:
 #    - user-api
 #  providesApis:
