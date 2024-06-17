@@ -18,7 +18,7 @@ metadata:
 #  labels:
 #    key1: value1
   tags:
-    - jesse_delacerda
+    - jesse-delacerda
 spec:
   type: service
   owner: team_jesse
