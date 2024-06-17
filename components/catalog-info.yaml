@@ -21,7 +21,7 @@ metadata:
     - jesse-delacerda
 spec:
   type: service
-  owner: team_jesse
+  owner: TeamA
   lifecycle: experimental
 #  system: Demo
 #  dependsOn:
